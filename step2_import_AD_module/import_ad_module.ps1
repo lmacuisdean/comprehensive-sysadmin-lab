@@ -1,1 +1,3 @@
-```Import-Module ActiveDirectory```
+```powershell
+Import-Module ActiveDirectory
+```
